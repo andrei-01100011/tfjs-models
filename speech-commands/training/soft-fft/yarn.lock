@@ -772,10 +772,10 @@ crypto-random-string@^1.0.0:
   resolved "https://registry.yarnpkg.com/crypto-random-string/-/crypto-random-string-1.0.0.tgz#a230f64f568310e1498009940790ec99545bca7e"
   integrity sha1-ojD2T1aDEOFJgAmUB5DsmVRbyn4=
 
-dct@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/dct/-/dct-0.0.3.tgz#19390a834388a1d3a1373f9edfe50622074849d3"
-  integrity sha1-GTkKg0OIodOhNz+e3+UGIgdISdM=
+dct@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/dct/-/dct-0.1.0.tgz#301c5410b76bbfa32eea16f4a3a803d0f76130f8"
+  integrity sha512-/uUtEniuMq1aUxvLAoDtAduyl12oM1zhA/le2f83UFN/9+4KDHXFB6znEfoj5SDDLiTpUTr26NpxC7t8IFOYhQ==
 
 debug@^2.2.0, debug@^2.3.3:
   version "2.6.9"
