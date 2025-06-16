@@ -971,8 +971,10 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@tensorflow-models/posenet@file:../dist":
-  version "0.0.0"
+"@tensorflow-models/posenet@0.2.3":
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/posenet/-/posenet-0.2.3.tgz#e3790ea7e9b616fb5d936956e13df02ff7777ead"
+  integrity sha512-PcYnxkUW9FMPRROVk2RhE9rzxnmi0pd/psVRmhkTX76Y4BX8VArlT9S0z2yBjEG7hs/iCFsKeu98L2ahDmGZpA==
 
 "@tensorflow/tfjs-backend-cpu@3.6.0":
   version "3.6.0"
