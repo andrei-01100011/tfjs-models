@@ -1354,8 +1354,17 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@tensorflow-models/toxicity@file:../dist":
-  version "0.0.0"
+"@tensorflow-models/toxicity@0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/toxicity/-/toxicity-0.1.0.tgz#27d99570a1eccefc46cadeb80bb67fd957d0a5ff"
+  integrity sha512-D2nslalBaLhzhL06GwHachnxNN2LUwnKbxasqZgN43w4pAFNiDGLoLkw0KJyNT+NDRlfGEnvklmplFinVs1jQw==
+  dependencies:
+    "@tensorflow-models/universal-sentence-encoder" "0.0.4"
+
+"@tensorflow-models/universal-sentence-encoder@0.0.4":
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/universal-sentence-encoder/-/universal-sentence-encoder-0.0.4.tgz#f30e60163190cefc5ce8a29e6b30895e3625bd05"
+  integrity sha512-wc139eVBZTNn6dSyR7Lhzm8c3RWmWm7s/jDfbW72obanmnwtJ+hHgvGNXvYX0c+Q1ewKryKRasUUQcJ9oG1D5A==
 
 "@tensorflow/tfjs-converter@1.7.4":
   version "1.7.4"
