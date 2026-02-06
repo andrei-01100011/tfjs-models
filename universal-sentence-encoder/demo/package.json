@@ -9,7 +9,7 @@
     "node": ">=8.9.0"
   },
   "dependencies": {
-    "@tensorflow-models/universal-sentence-encoder": "file:../dist",
+    "@tensorflow-models/universal-sentence-encoder": "0.0.4",
     "@tensorflow/tfjs-backend-cpu": "^3.3.0",
     "@tensorflow/tfjs-backend-webgl": "^3.3.0",
     "@tensorflow/tfjs-converter": "^3.3.0",
