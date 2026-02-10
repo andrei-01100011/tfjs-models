@@ -956,8 +956,10 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
-"@tensorflow-models/mobilenet@file:../dist":
-  version "0.0.0"
+"@tensorflow-models/mobilenet@0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/mobilenet/-/mobilenet-0.2.2.tgz#a91d7120c0717ba657070036946ccf060fc10818"
+  integrity sha512-gmBbZ8QpUTLP4SqQah+c4KC56bTicgZEUUVsGvzTKunrHxI5339kFeFQ/XgCW2/pYPb3/tqjGSXEP272n/VTjw==
 
 "@tensorflow/tfjs-backend-cpu@3.3.0", "@tensorflow/tfjs-backend-cpu@^3.3.0":
   version "3.3.0"
